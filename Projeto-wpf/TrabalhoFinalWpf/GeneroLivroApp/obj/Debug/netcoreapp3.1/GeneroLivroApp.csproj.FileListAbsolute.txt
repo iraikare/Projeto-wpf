@@ -1,0 +1,17 @@
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\bin\Debug\netcoreapp3.1\GeneroLivroApp.exe
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\bin\Debug\netcoreapp3.1\GeneroLivroApp.deps.json
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\bin\Debug\netcoreapp3.1\GeneroLivroApp.runtimeconfig.json
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\bin\Debug\netcoreapp3.1\GeneroLivroApp.runtimeconfig.dev.json
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\bin\Debug\netcoreapp3.1\GeneroLivroApp.dll
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\bin\Debug\netcoreapp3.1\GeneroLivroApp.pdb
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\obj\Debug\netcoreapp3.1\GeneroLivroApp.csprojAssemblyReference.cache
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\obj\Debug\netcoreapp3.1\GeneroLivroApp_MarkupCompile.cache
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\obj\Debug\netcoreapp3.1\GeneroLivroApp_MarkupCompile.lref
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\obj\Debug\netcoreapp3.1\GeneroLivroApp.g.resources
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\obj\Debug\netcoreapp3.1\GeneroLivroApp.AssemblyInfoInputs.cache
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\obj\Debug\netcoreapp3.1\GeneroLivroApp.AssemblyInfo.cs
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\obj\Debug\netcoreapp3.1\GeneroLivroApp.dll
+C:\Users\20211011110005\source\repos\Projeto-wpf\TrabalhoFinalWpf\GeneroLivroApp\obj\Debug\netcoreapp3.1\GeneroLivroApp.pdb
